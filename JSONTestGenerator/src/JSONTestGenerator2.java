@@ -13,7 +13,7 @@ import java.util.Map.Entry;
 
 import org.json.JSONObject;
 
-public class JSONTestGenerator {
+public class JSONTestGenerator2 {
 
 	private static final String FILEPATH = "E:\\Área de Trabalho\\test\\template";
 
